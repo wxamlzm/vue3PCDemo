@@ -1,0 +1,17 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "additionalResources": [
+    {
+      "resourceName": "Resource 1",
+      "resourceType": "Type 1"
+    },
+    {
+      "resourceName": "Resource 2",
+      "resourceType": "Type 2"
+    }
+  ],
+  "otherSingleForm": {
+    "someField": "Some Value"
+  }
+}
